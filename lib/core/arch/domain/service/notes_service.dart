@@ -1,7 +1,8 @@
 import 'package:ktnotes/core/arch/domain/model/note.dart';
-import 'package:ktnotes/core/base/base_repository.dart';
+import 'package:ktnotes/core/base/base_service.dart';
 
-abstract class NotesRepository implements BaseRepository {
+/// Notes service interface
+abstract class NotesService implements BaseService {
   /// Get notes
   Future<List<Note>> getNotes();
 

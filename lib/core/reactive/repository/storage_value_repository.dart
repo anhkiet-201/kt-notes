@@ -1,5 +1,5 @@
-import 'package:myapp/core/arch/data/local/local_storage.dart';
-import 'package:myapp/core/base/base_repository.dart';
+import 'package:ktnotes/core/arch/data/local/local_storage.dart';
+import 'package:ktnotes/core/base/base_repository.dart';
 
 /// A type-safe, key-value storage repository for persistent local data storage.
 ///

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "551014826419",
+    "project_id": "kt-notes-f4028",
+    "storage_bucket": "kt-notes-f4028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551014826419:android:aafe0413f87c02843c4bc6",
+        "android_client_info": {
+          "package_name": "com.ktdev.ktnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551014826419-v7r9hmai74h6ulhegukfelqt1eqb2duo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ktdev.ktnotes",
+            "certificate_hash": "8281989e0ce0092a3ad0b6c1a96de687e717c2be"
+          }
+        },
+        {
+          "client_id": "551014826419-sgf4ao1pj4m7jsv01ud3jdorniuhd22s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYB54BhmT9xBGL2_4E7y2BvzbxK9r_I7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551014826419-sgf4ao1pj4m7jsv01ud3jdorniuhd22s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "551014826419-5q83cojdclkgfrkithi2lgq00rn0lo2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ktdev.ktnotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

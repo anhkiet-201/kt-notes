@@ -1,9 +1,9 @@
 import 'package:json/json.dart';
-import 'package:myapp/core/arch/domain/model/note_details.dart';
+import 'package:ktnotes/core/arch/domain/model/note_details.dart';
 
 @JsonCodable()
 class Note {
-  final int x;
+  final String id;
   final NoteDetails details;
-  const Note(this.x, this.details,);
+  const Note(this.id, this.details,);
 }

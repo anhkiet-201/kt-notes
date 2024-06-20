@@ -1,6 +1,6 @@
-import 'package:myapp/core/arch/data/local/local_storage.dart';
-import 'package:myapp/core/arch/data/local/local_storage_provider.dart';
-import 'package:myapp/core/reactive/repository/storage_value_repository.dart';
+import 'package:ktnotes/core/arch/data/local/local_storage.dart';
+import 'package:ktnotes/core/arch/data/local/local_storage_provider.dart';
+import 'package:ktnotes/core/reactive/repository/storage_value_repository.dart';
 
 /// {@template storage_value_repository_impl}
 /// Implementation of [StorageValueRepository] using [LocalStorageProvider].

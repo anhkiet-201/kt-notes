@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:myapp/app/kt_notes_app.dart';
+import 'package:ktnotes/app/kt_notes_app.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

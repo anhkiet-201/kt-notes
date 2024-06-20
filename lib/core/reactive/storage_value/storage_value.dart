@@ -2,11 +2,11 @@
 import 'dart:async';
 
 import 'package:mobx/mobx.dart';
-import 'package:myapp/core/arch/data/local/local_storage.dart';
-import 'package:myapp/core/base/base_store.dart';
-import 'package:myapp/core/logger/logger.dart';
-import 'package:myapp/core/reactive/abstract_value/abstract_value.dart';
-import 'package:myapp/core/reactive/repository/storage_value_repository_provider.dart';
+import 'package:ktnotes/core/arch/data/local/local_storage.dart';
+import 'package:ktnotes/core/base/base_store.dart';
+import 'package:ktnotes/core/logger/logger.dart';
+import 'package:ktnotes/core/reactive/abstract_value/abstract_value.dart';
+import 'package:ktnotes/core/reactive/repository/storage_value_repository_provider.dart';
 part 'storage_value.g.dart';
 
 class StorageValue<T> = _StorageValueBase<T> with _$StorageValue<T>;
